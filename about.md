@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I started building this site on the evening of November 5, 2014. Earlier in the day, I was reading through some comments left on a politics-oriented website and came across the typical stuff: people calling each other names and making claims about why they were right and the other people were wrong. I wondered whether any of them was making valid claims and thought it would be great if I knew how to find conclusive answers. I imagined how I would address those people if I were truly in-the-know, and I guessed that I might start my response with "You might want to know . . .". It sounded more fun, interesting and colloquial to say it as "You might wanna know" and so that's the domain name I registered.
